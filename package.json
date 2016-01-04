@@ -1,0 +1,12 @@
+{
+  "name": "fontastic-brunch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "request": "^2.67.0"
+  },
+  "peerDependencies": {
+    "brunch": "~1.8"
+  }
+}
